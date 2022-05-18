@@ -1,0 +1,6 @@
+
+
+enum UserRoleEnum {
+  instructor,
+  student
+}
